@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">日次処理</string>
+    <string name="menu_list_option_1">日次仕込計算</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="MaxCustomersTitle">想定最大人数=</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_num_update">NumUpdateActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_seasoning_update">SeasoningUpdateActivity</string>
+
+</resources>
